@@ -4,7 +4,7 @@
 
 An employee tracker made using SQL databases and tables. Allows user to view all employees, roles and departments on one easy location. They can also add roles, add employees, and update employee information as needed. Once attached to a front end site, this data can be readily avaliable to individuals and users as needed to help keep track of employees, roles, departments, pay, and more! 
 
-Youtube Video attached here for demonstration:
+Youtube Video attached here for demonstration: https://youtu.be/o31LCHRQe3w
 
 ## User Story
 ![image](https://user-images.githubusercontent.com/102200085/184583106-d45214e6-d257-4a70-98aa-dbb70d55d5e6.png)
