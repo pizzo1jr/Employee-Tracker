@@ -2,7 +2,7 @@
 
 ## Description
 
-An employee tracker made using SQL databases and tables. Allows user to view all employees, roles and departments. They can also add roles, add employees, and update employee information as needed.
+An employee tracker made using SQL databases and tables. Allows user to view all employees, roles and departments on one easy location. They can also add roles, add employees, and update employee information as needed. Once attached to a front end site, this data can be readily avaliable to individuals and users as needed to help keep track of employees, roles, departments, pay, and more! 
 
 Youtube Video attached here for demonstration:
 
@@ -24,5 +24,11 @@ https://www.npmjs.com/package/console.table
 Inquirer
 https://www.npmjs.com/package/inquirer 
 PLEASE NOTE: With this you will need to run inquirer at its form of 8.0.0 in order for this to work properly
+
+## Tests
+No tests were run at this time. No tests needed
+
+## Contributors
+No contributions at this time! Thank you! 
 
 ## Repo
