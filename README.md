@@ -6,7 +6,14 @@ An employee tracker made using SQL databases and tables. Allows user to view all
 
 Youtube Video attached here for demonstration:
 
-## Install guide
+## User Story
+![image](https://user-images.githubusercontent.com/102200085/184583106-d45214e6-d257-4a70-98aa-dbb70d55d5e6.png)
+
+## Acceptance Criteria
+![image](https://user-images.githubusercontent.com/102200085/184583173-667c3453-dc77-4f1c-b6cd-a2d3b0fef901.png)
+
+
+## Install Guide
 
 - git clone information in repository
 - ensure the instiallation of inquirer, mysql2, and console.table
@@ -18,4 +25,4 @@ Inquirer
 https://www.npmjs.com/package/inquirer 
 PLEASE NOTE: With this you will need to run inquirer at its form of 8.0.0 in order for this to work properly
 
-## Repp
+## Rep0
