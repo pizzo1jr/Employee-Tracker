@@ -25,4 +25,4 @@ Inquirer
 https://www.npmjs.com/package/inquirer 
 PLEASE NOTE: With this you will need to run inquirer at its form of 8.0.0 in order for this to work properly
 
-## Rep0
+## Repo
